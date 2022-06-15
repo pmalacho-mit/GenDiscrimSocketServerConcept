@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "noImplicitAny": false,
+      "removeComments": false,
+      "preserveConstEnums": false,
+      "outDir": "javascript",
+      "sourceMap": false,
+    },
+    "include": ["*.ts"],
+  }
