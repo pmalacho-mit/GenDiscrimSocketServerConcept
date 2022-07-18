@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "compile:ts": "node_modules/.bin/tsc index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
